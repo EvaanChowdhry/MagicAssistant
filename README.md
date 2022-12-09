@@ -24,8 +24,7 @@ No, Magic is not recording any audio from you. The only thing is the last comman
 Yes, Magic is safe.
 
 ###### How do I close it?
-You can say, 'Magic, exit." or close it from task manager.
-
+You can say, 'Magic, exit." or close it from task manager. To open task manager, press Ctrl + Shift + Esc
 ## Requirements
 Windows 10 or above, 
 A 64 bit operating system, 
