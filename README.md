@@ -34,5 +34,4 @@ A quiet area/a place you would sleep in
 # Cool Features and how to use them
 
 Play Games - "Magic, Play a game"  
-Clear Data - "Magic, Clear data"  
-Play Songs - "Magic, Play music"
+Clear Data - "Magic, Clear data"
