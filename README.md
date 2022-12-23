@@ -35,3 +35,4 @@ A quiet area/a place you would sleep in
 
 Play Games - "Magic, Play a game"  
 Clear Data - "Magic, Clear data"
+Custom sound effects. Replace the sounds in the "Sounds" folder with your own! Just make sure they have the same names.
