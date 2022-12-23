@@ -25,13 +25,11 @@ Yes, Magic is safe.
 
 ###### How do I close it?
 You can say, 'Magic, exit." or close it from task manager. To open task manager, press Ctrl + Shift + Esc
+
 ## Requirements
 Windows 10 or above,  
 A 64 bit operating system,  
 A speaker and microphone,  
 A quiet area/a place you would sleep in
 
-# Cool Features and how to use them
 
-Play Games - "Magic, Play a game"  
-Clear Data - "Magic, Clear data"
