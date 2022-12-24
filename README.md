@@ -4,9 +4,9 @@
 Magic is a simple virtaul assistant for day to day use.
 
 You can:
-  **Translare** text
-  **Ask** questions
-  **Play** games
+  **Translare** text  
+  **Ask** questions  
+  **Play** games  
 And More!
 
 ## How to use?
