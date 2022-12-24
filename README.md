@@ -3,10 +3,10 @@
 
 Magic is a simple virtaul assistant for day to day use.
 
-You can:  
- **Translate** text  
- **Ask** questions  
- **Play** games  
+You can:
+  **Open** apps
+  **Ask** questions
+  **Play** games
 And More!
 
 ## How to use?
@@ -32,4 +32,16 @@ A 64 bit operating system,
 A speaker and microphone,  
 A quiet area/a place you would sleep in
 
+## Installation
+1. Click the green "Code" button and click "Download ZIP"  
+2. Extract the ZIP file  
+3. Run the "Magic.exe" file  
+
+## How to contribute
+1. Fork the repository  
+2. Clone the repository  
+3. Make your changes  
+4. Commit your changes  
+5. Push your changes  
+6. Create a pull request on the original repository  
 
