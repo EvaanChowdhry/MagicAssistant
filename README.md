@@ -43,5 +43,5 @@ A quiet area/a place you would sleep in
 3. Make your changes  
 4. Commit your changes  
 5. Push your changes  
-6. Create a pull request on the original repository  
+6. Create a pull request on the original repository (this one)
 
