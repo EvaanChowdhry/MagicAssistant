@@ -1,4 +1,4 @@
-![MagicBanner](https://i.ibb.co/zHCjktz/magicbanner.png)
+![MagicBanner](https://i.ibb.co/PNMN6rm/68747470733a2f2f692e6962622e636f2f7a48436a6b747a2f6d6167696362616e6e65722e706e67-1.png)
 # Magic ✨
 
 Magic is a simple virtaul assistant for day to day use.
